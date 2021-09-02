@@ -1,0 +1,7 @@
+Repeat:camera:1
+Jacky:camera:1
+Staircase:camera:1
+Doubles:camera:1
+LAST-SAVE:camera:1
+Curiosity:rocky:1
+stay:camera:1

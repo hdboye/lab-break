@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cameraControl.png">
+	<!-- Created with my hands, bitches -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle" x="0" y="0" width="4" height="5" frameX="0" frameY="0" frameWidth="4" frameHeight="5"/>
+</TextureAtlas>
